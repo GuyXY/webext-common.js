@@ -1,0 +1,19 @@
+{
+  "name": "webext-common.js",
+  "version": "2.0.1",
+  "description": "webext-common.js contains code that is common between two or more of my browser add-ons.",
+  "main": "common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuyXY/webext-common.js.git"
+  },
+  "author": "GuyXY",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/GuyXY/webext-common.js/issues"
+  },
+  "homepage": "https://github.com/GuyXY/webext-common.js#readme"
+}
